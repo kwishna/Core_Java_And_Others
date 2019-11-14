@@ -1,0 +1,13 @@
+{
+  "name": "krishna Kumar Singh",
+  "tech": [
+    "Java",
+    "Python",
+    "javaScript"
+  ],
+  "education": {
+    "primary": "School",
+    "srsec": "Same School",
+    "high": "Different"
+  }
+}
