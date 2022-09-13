@@ -6,22 +6,22 @@ public class ParentTest {
 	
 	ParentTest(){
 		
-		System.out.println("Default Parent Class");
+		System.out.println("Default Parent.java Class");
 	}
 	
 	public ParentTest(String a, int b){
 		
-		System.out.println(a+" -- Public Parent Class -- "+b);
+		System.out.println(a+" -- Public Parent.java Class -- "+b);
 	}
 	
 	private ParentTest(String a, int b, boolean c){
 		
-		System.out.println(a+" -- private Parent Class -- "+b+" -- "+c);
+		System.out.println(a+" -- private Parent.java Class -- "+b+" -- "+c);
 	}
 	
 	public ParentTest(String a){
 		
-		System.out.println(a+" -- Public Parent Class 2 -- ");
+		System.out.println(a+" -- Public Parent.java Class 2 -- ");
 	}
 	
 	private void methodP() {
